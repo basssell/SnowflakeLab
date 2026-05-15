@@ -1,0 +1,51 @@
+product_id,sku,product_name,category,brand,unit_price,active_flag
+P0001,SPO-0001,UrbanMove Training Socks,Sports,UrbanMove,144.88,True
+P0002,SPO-0002,RunWell Resistance Bands,Sports,RunWell,80.99,True
+P0003,SPO-0003,AltiFit Gym Towel,Sports,AltiFit,131.59,False
+P0004,HOM-0004,North Home Scented Candle,Home,North Home,9.23,False
+P0005,BOO-0005,Readly Data Basics Guide,Books,Readly,19.23,False
+P0006,HOM-0006,CasaBelle Storage Basket,Home,CasaBelle,13.32,False
+P0007,BEA-0007,Lumiere Body Lotion,Beauty,Lumiere,61.86,False
+P0008,BEA-0008,PureSkin Shampoo Bar,Beauty,PureSkin,151.03,False
+P0009,ELE-0009,Voltix Noise-Canceling Earbuds,Electronics,Voltix,13.64,True
+P0010,HOM-0010,North Home Cotton Towel Set,Home,North Home,141.61,True
+P0011,ELE-0011,Nova USB-C Hub,Electronics,Nova,151.78,True
+P0012,HOM-0012,Maisonix Kitchen Scale,Home,Maisonix,121.99,True
+P0013,SPO-0013,UrbanMove Resistance Bands,Sports,UrbanMove,139.09,True
+P0014,BOO-0014,Readly Data Basics Guide,Books,Readly,141.0,True
+P0015,BEA-0015,Lumiere Lip Balm Set,Beauty,Lumiere,9.01,True
+P0016,BOO-0016,Readly SQL Pocket Book,Books,Readly,74.11,True
+P0017,ELE-0017,Voltix USB-C Hub,Electronics,Voltix,22.38,True
+P0018,GRO-0018,BioPanier Organic Coffee,Grocery,BioPanier,144.24,True
+P0019,BEA-0019,BelleVie Body Lotion,Beauty,BelleVie,120.6,True
+P0020,BOO-0020,Readly Travel Journal,Books,Readly,6.72,False
+P0021,SPO-0021,RunWell Gym Towel,Sports,RunWell,173.12,False
+P0022,GRO-0022,FreshCo Dark Chocolate,Grocery,FreshCo,35.41,True
+P0023,BOO-0023,Readly SQL Pocket Book,Books,Readly,86.09,True
+P0024,BEA-0024,Lumiere Hydrating Cream,Beauty,Lumiere,53.45,False
+P0025,HOM-0025,CasaBelle Scented Candle,Home,CasaBelle,111.61,False
+P0026,BEA-0026,Lumiere Body Lotion,Beauty,Lumiere,153.84,True
+P0027,SPO-0027,RunWell Resistance Bands,Sports,RunWell,144.52,True
+P0028,BEA-0028,BelleVie Shampoo Bar,Beauty,BelleVie,102.04,True
+P0029,ELE-0029,Nova Desk Lamp,Electronics,Nova,90.25,True
+P0030,GRO-0030,DailyFarm Dark Chocolate,Grocery,DailyFarm,83.15,True
+P0031,ELE-0031,PixelCraft USB-C Hub,Electronics,PixelCraft,75.47,True
+P0032,BEA-0032,BelleVie Lip Balm Set,Beauty,BelleVie,69.26,True
+P0033,SPO-0033,UrbanMove Training Socks,Sports,UrbanMove,62.55,False
+P0034,BEA-0034,PureSkin Shampoo Bar,Beauty,PureSkin,44.96,True
+P0035,BEA-0035,Lumiere Lip Balm Set,Beauty,Lumiere,171.38,True
+P0036,HOM-0036,Maisonix Kitchen Scale,Home,Maisonix,53.03,True
+P0037,ELE-0037,Nova Wireless Mouse,Electronics,Nova,44.42,True
+P0038,BEA-0038,Lumiere Lip Balm Set,Beauty,Lumiere,26.72,True
+P0039,ELE-0039,Voltix Wireless Mouse,Electronics,Voltix,126.9,True
+P0040,GRO-0040,DailyFarm Organic Coffee,Grocery,DailyFarm,157.66,True
+P0041,SPO-0041,AltiFit Gym Towel,Sports,AltiFit,64.29,True
+P0042,BEA-0042,PureSkin Hydrating Cream,Beauty,PureSkin,148.78,False
+P0043,SPO-0043,RunWell Training Socks,Sports,RunWell,114.97,True
+P0044,HOM-0044,Maisonix Scented Candle,Home,Maisonix,171.07,True
+P0045,HOM-0045,Maisonix Scented Candle,Home,Maisonix,138.66,True
+P0046,BOO-0046,InkHouse SQL Pocket Book,Books,InkHouse,163.94,True
+P0047,BOO-0047,InkHouse Travel Journal,Books,InkHouse,104.29,True
+P0048,BOO-0048,Readly Data Basics Guide,Books,Readly,170.8,True
+P0049,GRO-0049,FreshCo Olive Oil,Grocery,FreshCo,120.41,True
+P0050,HOM-0050,Maisonix Scented Candle,Home,Maisonix,17.67,True

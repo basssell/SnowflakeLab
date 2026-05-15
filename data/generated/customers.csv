@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,city,country,segment,signup_date,marketing_opt_in
+C0001,Hugo,Martin,hugo.martin.1@example.fr,Bordeaux,FR,Young Professional,2023-12-13,True
+C0002,Hugo,Simon,hugo.simon.2@example.fr,Montpellier,FR,Student,2025-07-06,False
+C0003,Louis,Martin,louis.martin.3@example.fr,Lyon,FR,Young Professional,2023-12-28,True
+C0004,Manon,Laurent,manon.laurent.4@example.fr,Montpellier,FR,Premium,2023-12-09,False
+C0005,Chloe,Lefebvre,chloe.lefebvre.5@example.fr,Paris,FR,Young Professional,2025-12-20,False
+C0006,Sarah,Robert,sarah.robert.6@example.fr,Marseille,FR,Young Professional,2024-06-06,True
+C0007,Lea,Petit,invalid-email,Lyon,FR,Family,2024-06-18,False
+C0008,Louis,Laurent,louis.laurent.8@example.fr,Strasbourg,FR,Small Business,2023-07-13,False
+C0009,Lea,Leroy,lea.leroy.9@example.fr,Bordeaux,FR,Small Business,2024-07-15,True
+C0010,Lea,Martin,lea.martin.10@example.fr,Toulouse,FR,Family,2023-05-04,True
+C0011,Hugo,Petit,hugo.petit.11@example.fr,Bordeaux,FR,Premium,2025-09-14,False
+C0012,Lucas,Richard,lucas.richard.12@example.fr,Lille,FR,Young Professional,2025-11-07,False
+C0013,Lea,Moreau,lea.moreau.13@example.fr,Marseille,FR,Small Business,2024-01-16,True
+C0014,Yasmine,Petit,yasmine.petit.14@example.fr,Bordeaux,FR,Small Business,2023-12-08,False
+C0015,Louis,Thomas,louis.thomas.15@example.fr,Paris,FR,Family,2024-09-15,False
+C0016,Lea,Thomas,lea.thomas.16@example.fr,Rennes,FR,Family,2023-11-27,False
+C0017,Nina,Simon,nina.simon.17@example.fr,Strasbourg,FR,Young Professional,2024-02-16,True
+C0018,Nathan,Laurent,nathan.laurent.18@example.fr,Montpellier,FR,Small Business,2024-02-13,False
+C0019,Nina,Richard,nina.richard.19@example.fr,Toulouse,FR,Young Professional,2025-03-02,False
+C0020,Lea,Lefebvre,lea.lefebvre.20@example.fr,Paris,FR,Student,2023-08-26,True
+C0021,Antoine,Moreau,antoine.moreau.21@example.fr,Lyon,FR,Premium,2024-08-15,False
+C0022,Chloe,Leroy,chloe.leroy.22@example.fr,Paris,FR,Student,2025-11-25,False
+C0023,Sarah,Bernard,sarah.bernard.23@example.fr,Bordeaux,FR,Premium,2023-09-03,False
+C0024,Camille,Laurent,camille.laurent.24@example.fr,Bordeaux,FR,Small Business,2023-10-05,True
+C0025,Adam,Michel,adam.michel.25@example.fr,Montpellier,FR,Small Business,2023-11-05,True
+C0026,Mehdi,Lefebvre,mehdi.lefebvre.26@example.fr,Marseille,FR,Small Business,2025-04-03,True
+C0027,Sarah,Durand,sarah.durand.27@example.fr,Paris,FR,Student,2024-07-17,False
+C0028,Nathan,Martin,nathan.martin.28@example.fr,Toulouse,FR,Small Business,2023-05-03,True
+C0029,Jules,Michel,jules.michel.29@example.fr,Lyon,FR,Small Business,2023-07-15,True
+C0030,Jules,Leroy,jules.leroy.30@example.fr,Marseille,FR,Family,2025-03-30,False
+C0031,Manon,Leroy,manon.leroy.31@example.fr,Toulouse,FR,Family,2024-09-11,False
+C0032,Yasmine,Leroy,yasmine.leroy.32@example.fr,Strasbourg,FR,Student,2024-01-21,True
+C0033,Lea,Richard,lea.richard.33@example.fr,Paris,FR,Small Business,2025-05-10,True
+C0034,Nathan,Martin,nathan.martin.34@example.fr,Lyon,FR,Student,2023-12-22,True
+C0035,Louis,Michel,louis.michel.35@example.fr,Lille,FR,Student,2025-03-09,True
+C0036,Chloe,Simon,chloe.simon.36@example.fr,Strasbourg,FR,Young Professional,2025-04-17,True
+C0037,Jules,Thomas,jules.thomas.37@example.fr,Strasbourg,FR,Premium,2023-10-23,True
+C0038,Hugo,Simon,hugo.simon.38@example.fr,Nantes,FR,Family,2024-10-20,False
+C0039,Yasmine,Michel,yasmine.michel.39@example.fr,Paris,FR,Student,2023-04-05,False
+C0040,Sarah,Lefebvre,sarah.lefebvre.40@example.fr,Lyon,FR,Young Professional,2023-10-25,True
+C0041,Yasmine,Dubois,yasmine.dubois.41@example.fr,Nantes,FR,Young Professional,2024-03-08,False
+C0042,Nathan,Michel,nathan.michel.42@example.fr,Lyon,FR,Premium,2025-05-04,True
+C0043,Louis,Simon,louis.simon.43@example.fr,Montpellier,FR,Student,2023-05-25,True
+C0044,Lucas,Petit,lucas.petit.44@example.fr,Strasbourg,FR,Premium,2023-11-29,False
+C0045,Louis,Dubois,louis.dubois.45@example.fr,Nantes,FR,Student,2024-08-29,False
+C0046,Yasmine,Robert,yasmine.robert.46@example.fr,Nantes,FR,Small Business,2025-10-25,False
+C0047,Ines,Thomas,ines.thomas.47@example.fr,Bordeaux,FR,Young Professional,2023-04-01,True
+C0048,Sarah,Martin,sarah.martin.48@example.fr,Paris,FR,Small Business,2025-01-10,True
+C0049,Louis,Leroy,louis.leroy.49@example.fr,Lyon,FR,Young Professional,2023-04-17,True
+C0050,Nathan,Petit,nathan.petit.50@example.fr,Lyon,FR,Small Business,2024-01-18,True
+C0051,Lea,Petit,lea.petit.51@example.fr,Rennes,FR,Small Business,2025-03-23,False
+C0052,Chloe,Thomas,chloe.thomas.52@example.fr,Lille,FR,Young Professional,2024-02-17,False
+C0053,Ines,Simon,ines.simon.53@example.fr,Bordeaux,FR,Premium,2024-05-06,True
+C0054,Camille,Durand,camille.durand.54@example.fr,Rennes,FR,Small Business,2023-06-05,True
+C0055,Manon,Leroy,manon.leroy.55@example.fr,Bordeaux,FR,Young Professional,2024-06-26,True
+C0056,Nathan,Richard,nathan.richard.56@example.fr,Bordeaux,FR,Young Professional,2024-11-11,False
+C0057,Camille,Simon,camille.simon.57@example.fr,Montpellier,FR,Family,2025-10-27,True
+C0058,Ines,Robert,ines.robert.58@example.fr,Lyon,FR,Student,2025-05-09,True
+C0059,Chloe,Robert,chloe.robert.59@example.fr,Rennes,FR,Young Professional,2024-06-16,True
+C0060,Chloe,Leroy,chloe.leroy.60@example.fr,Strasbourg,FR,Family,2023-03-20,True
+C0061,Antoine,Michel,antoine.michel.61@example.fr,Bordeaux,FR,Student,2023-01-06,False
+C0062,Ines,Simon,ines.simon.62@example.fr,Bordeaux,FR,Young Professional,2024-11-17,False
+C0063,Camille,Bernard,camille.bernard.63@example.fr,Lyon,FR,Young Professional,2025-04-27,True
+C0064,Mehdi,Moreau,mehdi.moreau.64@example.fr,Montpellier,FR,Young Professional,2024-10-29,True
+C0065,Louis,Robert,louis.robert.65@example.fr,Lille,FR,Student,2024-07-09,True
+C0066,Nathan,Simon,nathan.simon.66@example.fr,Lyon,FR,Family,2025-05-19,False
+C0067,Ines,Thomas,ines.thomas.67@example.fr,Marseille,FR,Young Professional,2024-10-02,True
+C0068,Lucas,Laurent,lucas.laurent.68@example.fr,Lille,FR,Premium,2025-11-06,True
+C0069,Chloe,Dubois,chloe.dubois.69@example.fr,Lyon,FR,Premium,2023-03-02,False
+C0070,Nathan,Thomas,nathan.thomas.70@example.fr,Strasbourg,FR,Family,2024-04-19,True
+C0071,Nathan,Martin,nathan.martin.71@example.fr,Toulouse,FR,Premium,2024-05-24,False
+C0072,Lea,Lefebvre,lea.lefebvre.72@example.fr,Bordeaux,FR,Family,2025-09-23,False
+C0073,Sarah,Martin,sarah.martin.73@example.fr,Lyon,FR,Family,2023-10-05,False
+C0074,Louis,Bernard,louis.bernard.74@example.fr,Rennes,FR,Premium,2024-06-21,False
+C0075,Antoine,Moreau,antoine.moreau.75@example.fr,Montpellier,FR,Student,2024-08-21,True
+C0076,Chloe,Martin,chloe.martin.76@example.fr,Nantes,FR,Student,2025-03-18,True
+C0077,Mehdi,Petit,mehdi.petit.77@example.fr,Lyon,FR,Family,2025-08-26,False
+C0078,Hugo,Laurent,hugo.laurent.78@example.fr,Bordeaux,FR,Small Business,2024-04-25,False
+C0079,Sarah,Petit,sarah.petit.79@example.fr,Bordeaux,FR,Small Business,2023-07-17,True
+C0080,Antoine,Simon,antoine.simon.80@example.fr,Nantes,FR,Young Professional,2025-08-14,False
+C0081,Nina,Leroy,nina.leroy.81@example.fr,Paris,FR,Family,2024-03-21,True
+C0082,Antoine,Lefebvre,antoine.lefebvre.82@example.fr,Rennes,FR,Small Business,2025-10-14,False
+C0083,Yasmine,Durand,yasmine.durand.83@example.fr,Strasbourg,FR,Young Professional,2025-03-05,False
+C0084,Lucas,Simon,lucas.simon.84@example.fr,Lyon,FR,Family,2025-03-11,False
+C0085,Lea,Michel,lea.michel.85@example.fr,Toulouse,FR,Family,2023-12-15,True
+C0086,Ines,Martin,ines.martin.86@example.fr,Paris,FR,Young Professional,2025-01-08,True
+C0087,Yasmine,Petit,yasmine.petit.87@example.fr,Rennes,FR,Young Professional,2025-12-17,False
+C0088,Jules,Petit,jules.petit.88@example.fr,Toulouse,FR,Young Professional,2025-10-16,True
+C0089,Hugo,Lefebvre,hugo.lefebvre.89@example.fr,Nantes,FR,Young Professional,2023-10-01,False
+C0090,Louis,Leroy,louis.leroy.90@example.fr,Toulouse,FR,Student,2024-12-10,True
+C0091,Yasmine,Simon,yasmine.simon.91@example.fr,Montpellier,FR,Small Business,2025-07-14,False
+C0092,Yasmine,Moreau,yasmine.moreau.92@example.fr,Montpellier,FR,Premium,2025-05-01,False
+C0093,Lucas,Laurent,lucas.laurent.93@example.fr,Strasbourg,FR,Premium,2024-02-07,True
+C0094,Chloe,Lefebvre,chloe.lefebvre.94@example.fr,Montpellier,FR,Premium,2025-08-31,True
+C0095,Chloe,Durand,chloe.durand.95@example.fr,Lyon,FR,Family,2023-12-31,False
+C0096,Sarah,Richard,sarah.richard.96@example.fr,Montpellier,FR,Student,2023-08-03,True
+C0097,Nathan,Petit,nathan.petit.97@example.fr,Marseille,FR,Young Professional,2023-04-10,False
+C0098,Antoine,Richard,antoine.richard.98@example.fr,Montpellier,FR,Premium,2024-10-07,True
+C0099,Manon,Michel,manon.michel.99@example.fr,Nantes,FR,Premium,2025-06-26,True
+C0100,Nina,Durand,nina.durand.100@example.fr,Paris,FR,Family,2024-04-08,False
